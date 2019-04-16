@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Built-By: fmy
-Build-Jdk: 10.0.1
-Class-Path: lib/joda-time-2.10.jar
-Main-Class: com.geeknotes.mvnpack.main.Luncher
-Created-By: Maven Integration for Eclipse
-
